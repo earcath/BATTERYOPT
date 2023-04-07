@@ -11,5 +11,5 @@
 
 # Download
 
-点击[这里]()下载。
+点击[这里](https://github.com/SomesakiKaede/BATTERYOPT/releases)下载。
 
