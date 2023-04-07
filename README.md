@@ -7,7 +7,7 @@
 
 ## 配置
 
-- 配置白名单文件位于`/data/adb/BATTERYOPT/电池优化白名单.conf`
+- 配置白名单文件位于`/data/adb/BATTERYOPT/电池优化白名单.prop`
 
 # 下载
 
