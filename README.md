@@ -13,9 +13,13 @@
 
 - 配置白名单文件位于`/data/adb/BATTERYOPT/电池优化白名单.prop`
 
+---
+
 # 下载
 
 点击[这里](https://github.com/SomesakiKaede/BATTERYOPT/releases)下载。
+
+---
 
 # 发行状态说明
 
