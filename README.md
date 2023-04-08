@@ -26,7 +26,8 @@
 # 捐赠
 
 [爱发电](https://afdian.net/a/SomesakiKaede)
-<img src="https://raw.githubusercontent.com/GSWXXN/RestoreSplashScreen/master/Doc/donate.png" width = "250" alt="donate" align=center />
+
+<img src="https://github.com/SomesakiKaede/Store-files/blob/main/IMG_20230409_015907.jpg" width = "250" alt="donate" align=center />
 
 
 
