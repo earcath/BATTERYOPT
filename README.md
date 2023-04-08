@@ -1,9 +1,9 @@
 # 电池优化
 
-![Blank](https://img.shields.io/badge/状态-稳定-green)
-[![Blank](https://img.shields.io/badge/版本-v1.0.5-green)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
-[![Blank](https://img.shields.io/github/downloads/SomesakiKaede/BATTERYOPT/total?label=下载)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
-[![Coolapk](https://img.shields.io/badge/作者酷安-柊疏柚-blue)](http://www.coolapk.com/u/11696005)
+[![Magisk](https://img.shields.io/badge/Magisk-green?style=flat&logo=Android&logoColor=white)](https://github.com/topjohnwu/Magisk)
+[![Version](https://img.shields.io/github/v/tag/SomesakiKaede/BATTERYOPT?label=版本)](https://github.com/SomesakiKaede/BATTERYOPT/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SomesakiKaede/BATTERYOPT/total?label=下载)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
+[![Coolapk](https://img.shields.io/badge/作者酷安-柊疏柚-orange)](http://www.coolapk.com/u/11696005)
 
 这是MIUI系统设置中的隐藏选项。
 
@@ -23,17 +23,7 @@
 
 ---
 
-# 发行状态说明
+# 捐赠
 
-![Blank](https://img.shields.io/badge/状态-稳定-green)
 
-上述状态说明当前版本可正常使用，没有发现问题。
-
-![Blank](https://img.shields.io/badge/状态-不稳定-yellow)
-
-上述状态说明当前版本虽可正常使用，但发现一些问题。
-
-![Blank](https://img.shields.io/badge/状态-存在问题-red)
-
-上述状态说明当前版本存在严重问题，无法正常使用。
 
