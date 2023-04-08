@@ -2,7 +2,7 @@
 [![Blank](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/fankes/BATTERYOPT)
 [![Blank](https://img.shields.io/badge/version-v1.0.5-green)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
 [![Blank](https://img.shields.io/github/downloads/SomesakiKaede/BATTERYOPT/total?label=Release)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
-[![Blank](https://img.shields.io/badge/作者酷安-柊疏柚-blue)](http://www.coolapk.com/u/11696005)
+[![Coolapk](https://img.shields.io/badge/作者酷安-柊疏柚-blue)](http://www.coolapk.com/u/11696005)
 
 这是MIUI系统设置中的隐藏选项。
 
