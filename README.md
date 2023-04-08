@@ -1,7 +1,8 @@
 # 电池优化
-[![Blank](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/fankes/BATTERYOPT)
-[![Blank](https://img.shields.io/badge/version-v1.0.5-green)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
-[![Blank](https://img.shields.io/github/downloads/SomesakiKaede/BATTERYOPT/total?label=Release)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
+
+![Blank](https://img.shields.io/badge/正式版-稳定-green)
+[![Blank](https://img.shields.io/badge/版本-v1.0.5-green)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
+[![Blank](https://img.shields.io/github/downloads/SomesakiKaede/BATTERYOPT/total?label=下载)](https://github.com/SomesakiKaede/BATTERYOPT/releases)
 [![Coolapk](https://img.shields.io/badge/作者酷安-柊疏柚-blue)](http://www.coolapk.com/u/11696005)
 
 这是MIUI系统设置中的隐藏选项。
@@ -24,15 +25,15 @@
 
 # 发行状态说明
 
-![Blank](https://img.shields.io/badge/build-passing-brightgreen)
+![Blank](https://img.shields.io/badge/版本-稳定-green)
 
-上述状态为当前稳定版与自动构建版本一致或当前代码改动与稳定版无功能差异。
+上述状态说明当前版本可正常使用，没有发现问题。
 
-![Blank](https://img.shields.io/badge/build-pending-dbab09)
+![Blank](https://img.shields.io/badge/版本-不稳定-yellow)
 
-上述状态为存在自动构建版本和新功能的更新但当前并未发布稳定版，处于预发行状态。
+上述状态说明当前版本虽可正常使用，但发现一些问题。
 
-![Blank](https://img.shields.io/badge/build-problem-red)
+![Blank](https://img.shields.io/badge/版本-存在问题-red)
 
-上述状态为当前发行的稳定版可能存在严重问题但并未及时进行修复且并未发布稳定版。
+上述状态说明当前版本存在严重问题，无法正常使用。
 
