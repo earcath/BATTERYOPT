@@ -25,5 +25,7 @@
 
 # 捐赠
 
+[爱发电](https://afdian.net/a/SomesakiKaede)
+
 
 
