@@ -21,5 +21,5 @@
 
 # 提示
 
-- 作者[酷安@柊疏柚](http://www.coolapk.com/u/876977) [GitHub@染崎枫](https://github.com/SomesakiKaede)
-- 模块地址：`https://github.com/SomesakiKaede/BATTERYOPT`
+- 作者：[酷安@柊疏柚](http://www.coolapk.com/u/876977) [GitHub@染崎枫](https://github.com/SomesakiKaede)
+- 模块地址：[GitHub](https://github.com/SomesakiKaede/BATTERYOPT)
