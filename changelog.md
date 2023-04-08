@@ -15,11 +15,11 @@
 
 ## 介绍
 
-- 本模块是MIUI隐藏的一个功能，不是显示开关，是以模块的方式实现其功能，开机不会恢复。
+- 本模块是MIUI隐藏的一个功能，**不是显示开关，是以模块的方式实现其功能**，开机不会恢复。
 
 ---
 
 # 提示
 
-- 作者酷安@柊疏柚 GitHub@染崎枫
+- 作者[酷安@柊疏柚](http://www.coolapk.com/u/876977) [GitHub@染崎枫](https://github.com/SomesakiKaede)
 - 模块地址：`https://github.com/SomesakiKaede/BATTERYOPT`
