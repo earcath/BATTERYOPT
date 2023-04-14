@@ -27,9 +27,6 @@
 
 [爱发电](https://afdian.net/a/SomesakiKaede)
 
-或者
-
-<img src="https://github.com/SomesakiKaede/Store-files/blob/main/IMG_20230409_015907.jpg?raw=true" width = "250" alt="" align=center />
 
 
 
